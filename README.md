@@ -1,1 +1,1 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thenu-k&show_icons=false&theme=cobalt&title_color=1000c9)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thenu-k&show_icons=false&theme=cobalt&title_color=#1000c9)
