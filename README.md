@@ -1,4 +1,4 @@
-<p>Hi there. I study Physics at the University of St Andrews and build full stack web apps in my free time.<br/>Here are some sites I've built. </p>
+<p>Hi there. I study physics at the University of St Andrews and build full stack web apps in my free time.<br/>Here are some sites I've built. </p>
 <ul>
   <li><a href='https://eden.thenu-kal.com/' target=''>Eden - UNDER CONSTRUCTION</a></li>
  <li><a href='https://loqui-thenu-k.vercel.app/' target=''>Loqui - Blog Site</a></li>
